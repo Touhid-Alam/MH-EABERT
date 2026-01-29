@@ -170,6 +170,10 @@ Constraints:
 ---
 ![confusion mh](https://github.com/user-attachments/assets/21dd6f49-f52d-41e8-a0b4-546b954ea46c)
 
+![confusion reddit](https://github.com/user-attachments/assets/014b76fd-bfa3-44c7-9dca-ec1c2632a65e)
+
+![confusion synthetic](https://github.com/user-attachments/assets/2721f384-8c1f-4537-8e77-2723082a37be)
+
 ## 🔬 Ablation Study
 
 | Configuration | Reddit Acc | Comp. MH Acc | Synthetic Acc |
